@@ -32,7 +32,7 @@ def logo():
                                                             
       
  
- SMS Sende       Coded by @amjouuud                          
+ SMS Send        Coded by @amjouuud                          
                  Dedicace to : DWM & Sayf Eddine         
 
 
