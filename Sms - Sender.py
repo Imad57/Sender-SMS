@@ -37,10 +37,10 @@ def logo():
 
 
  [+] 1. Run SMS Sender 
- [+] 2. About me [ for any help ! ]
+ [+] 2. About me 
 
 --- Think before u type ---
-			                  """
+"""
     for N, line in enumerate( x.split( "\n" ) ):
         sys.stdout.write( " \x1b[1;%dm%s%s\n " % (random.choice( colors ), line, clear) )
         time.sleep( 0.05 )
