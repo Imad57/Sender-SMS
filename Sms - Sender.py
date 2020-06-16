@@ -32,8 +32,7 @@ def logo():
                                                             
       
  
- SMS Send        Coded by @amjouuud                          
-                 Dedicace to : DWM & Sayf Eddine         
+ SMS Send        Coded by "t.me/xanlrbk"                                   
 
 
  [+] 1. Run SMS Sender 
@@ -77,10 +76,9 @@ E.X: +212-649xxxxxx\n"""
    print('\nFile Not Found :|\n')
    sys.exit(0)
 elif choice =='2':
- xx = """\n\033[32mName: Amjouuud 
-Current Location : Marruecos
-Ig : amjadtoni 
-Telegram : @amjadmbs
+ xx = """\n\033[32mName: Toni 
+Current Location : Marruecos 
+Telegram : @xanlrbk
                                                           
     _    __  __     _   _    ____    _____ ___  _   _ ___ 
    / \  |  \/  |   | | / \  |  _ \  |_   _/ _ \| \ | |_ _|
