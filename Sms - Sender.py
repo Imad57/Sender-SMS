@@ -32,7 +32,7 @@ def logo():
                                                             
       
  
- SMS Send        Coded by "t.me/xanlrbk"                                   
+ SMS Send        Coded by "t.me/xanlrbk" Channel : t.me/cityxan                                  
 
 
  [+] 1. Run SMS Sender 
